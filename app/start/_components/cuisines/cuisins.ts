@@ -11,9 +11,6 @@ export const cuisines: Cuisine[] = [
     name: "Dinner",
   },
   {
-    name: "Evening meal",
-  },
-  {
     name: "Snacks",
   },
 ];

@@ -1,12 +1,16 @@
 export type Vegetable = {
-    name: string;
-}
+  name: string;
+};
 
 export type Meat = {
-    name: string;
-    types: string[];
-}
+  name: string;
+  types: string[];
+};
 
 export type Seasoning = {
-    name: string;
-}
+  name: string;
+};
+
+export type Dairy = {
+  name: string;
+};
